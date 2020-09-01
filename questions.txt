@@ -1,0 +1,8 @@
+1;Which number is the smallest;1;4;5;1;easy
+2;Which number is the smallest;1;4;5;1;easy
+3;Which number is the smallest;1;4;5;1;easy
+4;Which number is the smallest;1;4;5;1;easy
+12;Which number is the smallest;1;4;5;1;easy
+13;Which number is the smallest;1;4;5;1;easy
+13;Which number is the smallest;1;4;5;1;hard
+13;Which number is the smallest;1;4;5;1;hard
